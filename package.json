@@ -1,0 +1,28 @@
+{
+  "name": "basiccord",
+  "version": "1.0.0",
+  "description": "Making Discord bots simple.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanaRinomi/BasicCord.git"
+  },
+  "keywords": [
+    "framecord",
+    "discordjs",
+    "discord",
+    "EZ"
+  ],
+  "author": "Amelia Rose Aldridge <amelia@sanarinomi.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SanaRinomi/BasicCord/issues"
+  },
+  "homepage": "https://github.com/SanaRinomi/BasicCord#readme",
+  "dependencies": {
+    "framecord": "^1.0.1"
+  }
+}

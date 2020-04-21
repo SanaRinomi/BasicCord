@@ -3,6 +3,8 @@ Making Discord bots simple.
 
 This project uses FrameCord. It extends FrameCord's client to make it easier for beginners and simple projects.
 
+Use `npm i -s basiccord` in your project to get started!
+
 # Creating a Bot
 
 To get started with BasicCord is very simple! Just follow the example to setup your client:

@@ -1,6 +1,6 @@
 {
   "name": "basiccord",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Making Discord bots simple.",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/SanaRinomi/BasicCord#readme",
   "dependencies": {
-    "framecord": "^1.0.1"
+    "framecord": "^1.0.6"
   }
 }
